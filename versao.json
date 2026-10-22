@@ -1,8 +1,14 @@
 {
-  "versao": "3.48.0",
-  "arquivo": "relink-3.48.0.pkg",
-  "sha256": "6459cbe345c4d9024d455f41b1dc669c387b7326fe7b2c61ea9162ccb8e9e5b0",
-  "assinatura": "uI9+3R0XbZ1qXT3RrNaimrpHdz+HSyaCGJnU9oM1g/JyDyYgf4ZSy+JOol+qve9daklKGQ3SJoSURsz2MPN5BQ==",
+  "versao": "3.49.0",
+  "arquivo": "relink-3.49.0.pkg",
+  "sha256": "b1ef44064d1b915516954ae5424feda63a276a7ab6abc70dab3619a791048825",
+  "assinatura": "PSxRxA/UPHpbDVfZtNPmssI31U9j54KpNV6f/OeWD0rIhd73fx2g6jBjU5msIs3P0cGs83A59y9Wy+JksH5ECw==",
   "carregadorMin": "3.24.0",
-  "quando": "2026-10-22T13:07:05.775Z"
+  "quando": "2026-10-22T13:25:33.812Z",
+  "notas": [
+    "Aba Atualizações (Ajuda › Atualizações): veja a versão em uso, a mais nova e as novidades.",
+    "Verificar atualização na hora, sem esperar o RELINK abrir de novo.",
+    "Referências: adicione imagens e vídeos de lettering para a IA aprender o seu estilo (LETTERING › Referências).",
+    "A IA escolhe melhor a palavra-chave e deixa muletas (\"então\", \"né\") como legenda simples."
+  ]
 }
