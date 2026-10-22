@@ -1,8 +1,8 @@
 {
-  "versao": "3.41.0",
-  "arquivo": "relink-3.41.0.pkg",
-  "sha256": "e94bf7ca1fe182e9c751d8e9fd547921403af23fc3bc01ec2a420883c0666c03",
-  "assinatura": "t8lPx0KbHYLy/w7ZXWiY1YqkfUsJbGycwF1kyGBHrmrGfpX8jjr7+n1CqolpTwK5CmhW9af3kijrxaYwcejIDg==",
+  "versao": "3.48.0",
+  "arquivo": "relink-3.48.0.pkg",
+  "sha256": "6459cbe345c4d9024d455f41b1dc669c387b7326fe7b2c61ea9162ccb8e9e5b0",
+  "assinatura": "uI9+3R0XbZ1qXT3RrNaimrpHdz+HSyaCGJnU9oM1g/JyDyYgf4ZSy+JOol+qve9daklKGQ3SJoSURsz2MPN5BQ==",
   "carregadorMin": "3.24.0",
-  "quando": "2026-10-19T18:01:05.496Z"
+  "quando": "2026-10-22T13:07:05.775Z"
 }
