@@ -1,16 +1,13 @@
 {
-  "versao": "3.54.0",
-  "arquivo": "relink-3.54.0.pkg",
-  "sha256": "497c07ef64adbd4a4726f002a43a9482f5f3102a4d0f057a28c420b3d3667d95",
-  "assinatura": "lfiW35UwUj38PJMlE/7XJ1E9M/lGDipiKBWMDegCIFan6yodwgFOs847g6/3/QR++skn3V+hIoPpXNbf3d5DCA==",
+  "versao": "3.55.0",
+  "arquivo": "relink-3.55.0.pkg",
+  "sha256": "2137ba63ba4a2c6014e4021ae550d4749233b4840221739a9c7c8219b3562088",
+  "assinatura": "JQkN9wJ41Ye0zq4D9XBkn+0IB2UMaiUSNS433HIMiQDtSLmSE/J6nXzesfiL/Icj/J0KvcDtZeaehDbL/sUODA==",
   "carregadorMin": "3.24.0",
-  "quando": "2026-10-23T16:05:07.001Z",
+  "quando": "2026-10-23T20:35:29.704Z",
   "notas": [
-    "Lettering inteligente: 6 padrões novos aprovados — Apoio + chave, Número gigante, Ênfase na linha, Tríade, Marca-texto e Etiqueta.",
-    "Composições mais apertadas: o apoio fica em cima e encostado na palavra-chave, sempre com dois tamanhos só.",
-    "Tarja (marca-texto e etiqueta) no laranja quente; as outras cores continuam na lista.",
-    "Só vira palavra-chave o que você marcar, e o tamanho da fonte se ajusta ao espaço livre de cada enquadramento.",
-    "Novo ritmo Foco: a frase fica parada e cada palavra perde o desfoque quando é dita (padrão DOAC legenda).",
-    "As timelines de trabalho do RELINK ficam escondidas na pasta RELINK do Media Pool, e as letras não se encostam mais."
+    "Lettering inteligente: padrão novo Número encaixado — a palavra depois do número cruza a base dele (\"100 vezes\", \"3 anos\").",
+    "Sem fade out nas palavras: nenhum preset faz mais a saída (Lettering e Lettering inteligente); a entrada continua igual.",
+    "Corrigido: gerar o lettering de um trecho apagava o lettering de outro trecho gerado antes. Agora só troca o que está dentro do trecho atual."
   ]
 }
