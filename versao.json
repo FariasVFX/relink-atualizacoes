@@ -1,14 +1,16 @@
 {
-  "versao": "3.49.0",
-  "arquivo": "relink-3.49.0.pkg",
-  "sha256": "b1ef44064d1b915516954ae5424feda63a276a7ab6abc70dab3619a791048825",
-  "assinatura": "PSxRxA/UPHpbDVfZtNPmssI31U9j54KpNV6f/OeWD0rIhd73fx2g6jBjU5msIs3P0cGs83A59y9Wy+JksH5ECw==",
+  "versao": "3.54.0",
+  "arquivo": "relink-3.54.0.pkg",
+  "sha256": "497c07ef64adbd4a4726f002a43a9482f5f3102a4d0f057a28c420b3d3667d95",
+  "assinatura": "lfiW35UwUj38PJMlE/7XJ1E9M/lGDipiKBWMDegCIFan6yodwgFOs847g6/3/QR++skn3V+hIoPpXNbf3d5DCA==",
   "carregadorMin": "3.24.0",
-  "quando": "2026-10-22T13:25:33.812Z",
+  "quando": "2026-10-23T16:05:07.001Z",
   "notas": [
-    "Aba Atualizações (Ajuda › Atualizações): veja a versão em uso, a mais nova e as novidades.",
-    "Verificar atualização na hora, sem esperar o RELINK abrir de novo.",
-    "Referências: adicione imagens e vídeos de lettering para a IA aprender o seu estilo (LETTERING › Referências).",
-    "A IA escolhe melhor a palavra-chave e deixa muletas (\"então\", \"né\") como legenda simples."
+    "Lettering inteligente: 6 padrões novos aprovados — Apoio + chave, Número gigante, Ênfase na linha, Tríade, Marca-texto e Etiqueta.",
+    "Composições mais apertadas: o apoio fica em cima e encostado na palavra-chave, sempre com dois tamanhos só.",
+    "Tarja (marca-texto e etiqueta) no laranja quente; as outras cores continuam na lista.",
+    "Só vira palavra-chave o que você marcar, e o tamanho da fonte se ajusta ao espaço livre de cada enquadramento.",
+    "Novo ritmo Foco: a frase fica parada e cada palavra perde o desfoque quando é dita (padrão DOAC legenda).",
+    "As timelines de trabalho do RELINK ficam escondidas na pasta RELINK do Media Pool, e as letras não se encostam mais."
   ]
 }
