@@ -1,16 +1,12 @@
 {
-  "versao": "3.56.0",
-  "arquivo": "relink-3.56.0.pkg",
-  "sha256": "a8d236a16d767efc06b7efa3cb0ff37a0edca5fa214d2ed05e2b65c3e11ec526",
-  "assinatura": "DPVvCR79lASBY2E0+wIjMx9hEkFBK8oq04Vbg1i6RowHF6rD/rk7siDF+j8OhpRsjyPIWRrVL7Aao2/cDV0lCw==",
+  "versao": "3.57.0",
+  "arquivo": "relink-3.57.0.pkg",
+  "sha256": "5e95990e8e7f731e0c9ddd71089033bd56422f9eeff6ab49a736ed6b63ede033",
+  "assinatura": "yBsM/GoRKXyr3RhzDZGFFTVKINrVZCx+yBPPKCBNq0XJyzD6JRLyvsTUmJEAAECU/OQ30j+iiBUPPVFZk6MlAQ==",
   "carregadorMin": "3.24.0",
-  "quando": "2026-10-29T17:30:28.032Z",
+  "quando": "2026-10-29T17:44:45.690Z",
   "notas": [
-    "Corrigido: a criação podia ficar parada em \"Preparando…\" para sempre quando o DaVinci deixava de responder a uma chamada anterior. Agora cada etapa tem prazo, mostra o erro e gera o relatório.",
-    "Novo em EDITING › Magic Mask: recorta a pessoa do trecho sozinho (o RELINK marca a pessoa e rastreia o Magic Mask do Fusion) numa faixa no topo; o lettering criado depois põe a palavra-chave atrás dela.",
-    "Corrigido: o Lettering inteligente dizia \"Não achei arquivo de vídeo\" em trechos com os clipes das câmeras desligados (corte de câmera); agora usa o vídeo desligado para ler a cena.",
-    "Blocos: cada corte de câmera da timeline vira um bloco (Lettering, Lettering inteligente e Magic Mask). Clique num bloco e o RELINK marca o In/Out nele; ◀ ▶ passam de um bloco para o outro e ● mostra onde já tem lettering.",
-    "Presets 100% editáveis no Inspector da página Edit: todo título sai como macro com todos os parâmetros (texto, fonte, cor, tamanho, posição, efeitos), sem precisar abrir o Fusion.",
-    "Lettering inteligente em Mescla: frase a frase o RELINK escolhe o padrão e o lugar (chave gigante atrás da pessoa, ao lado ou no centro), sem repetir o mesmo seguido. A chave atrás da pessoa cria o Magic Mask sozinha, só nessas frases."
+    "Fontes dos presets junto com o RELINK: Helvena, Swarsh Daisy e Bebas Neue são instaladas sozinhas no Mac que não tiver (depois é só reabrir o DaVinci).",
+    "Todos os presets do RELINK vêm no instalador: Up, Up Vermelho, up + Glow + pop, Up Helvética, Up Helvética Pyero, up pyero e Blur (editado), mais os títulos Blur, Up + Blur e MacroTool1."
   ]
 }
