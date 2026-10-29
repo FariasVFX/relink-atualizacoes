@@ -1,13 +1,16 @@
 {
-  "versao": "3.55.0",
-  "arquivo": "relink-3.55.0.pkg",
-  "sha256": "2137ba63ba4a2c6014e4021ae550d4749233b4840221739a9c7c8219b3562088",
-  "assinatura": "JQkN9wJ41Ye0zq4D9XBkn+0IB2UMaiUSNS433HIMiQDtSLmSE/J6nXzesfiL/Icj/J0KvcDtZeaehDbL/sUODA==",
+  "versao": "3.56.0",
+  "arquivo": "relink-3.56.0.pkg",
+  "sha256": "a8d236a16d767efc06b7efa3cb0ff37a0edca5fa214d2ed05e2b65c3e11ec526",
+  "assinatura": "DPVvCR79lASBY2E0+wIjMx9hEkFBK8oq04Vbg1i6RowHF6rD/rk7siDF+j8OhpRsjyPIWRrVL7Aao2/cDV0lCw==",
   "carregadorMin": "3.24.0",
-  "quando": "2026-10-23T20:35:29.704Z",
+  "quando": "2026-10-29T17:30:28.032Z",
   "notas": [
-    "Lettering inteligente: padrão novo Número encaixado — a palavra depois do número cruza a base dele (\"100 vezes\", \"3 anos\").",
-    "Sem fade out nas palavras: nenhum preset faz mais a saída (Lettering e Lettering inteligente); a entrada continua igual.",
-    "Corrigido: gerar o lettering de um trecho apagava o lettering de outro trecho gerado antes. Agora só troca o que está dentro do trecho atual."
+    "Corrigido: a criação podia ficar parada em \"Preparando…\" para sempre quando o DaVinci deixava de responder a uma chamada anterior. Agora cada etapa tem prazo, mostra o erro e gera o relatório.",
+    "Novo em EDITING › Magic Mask: recorta a pessoa do trecho sozinho (o RELINK marca a pessoa e rastreia o Magic Mask do Fusion) numa faixa no topo; o lettering criado depois põe a palavra-chave atrás dela.",
+    "Corrigido: o Lettering inteligente dizia \"Não achei arquivo de vídeo\" em trechos com os clipes das câmeras desligados (corte de câmera); agora usa o vídeo desligado para ler a cena.",
+    "Blocos: cada corte de câmera da timeline vira um bloco (Lettering, Lettering inteligente e Magic Mask). Clique num bloco e o RELINK marca o In/Out nele; ◀ ▶ passam de um bloco para o outro e ● mostra onde já tem lettering.",
+    "Presets 100% editáveis no Inspector da página Edit: todo título sai como macro com todos os parâmetros (texto, fonte, cor, tamanho, posição, efeitos), sem precisar abrir o Fusion.",
+    "Lettering inteligente em Mescla: frase a frase o RELINK escolhe o padrão e o lugar (chave gigante atrás da pessoa, ao lado ou no centro), sem repetir o mesmo seguido. A chave atrás da pessoa cria o Magic Mask sozinha, só nessas frases."
   ]
 }
